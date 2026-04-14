@@ -181,7 +181,7 @@ sequenceDiagram
 To provide a complete learning experience, the original visual materials and a full practical walkthrough are linked below:
 
 - 📺 **Watch the Tutorial:** [Deep Dive: OSI Model & Attack Surface Mapping](https://www.youtube.com/@MuhammadAqibTayyab) — Full explanation in Urdu/Hindi for the desi cybersecurity community.
-- 📊 **Original Deck:** [Download Presentation (PPTX)](./assets/OSI_Model_Aqib.pptx) — The original slides used in the video for your own study and reference.
+- 📊 **Original Deck:** [Download Presentation (PPTX)](OSI_Model_Aqib.pdf) — The original slides used in the video for your own study and reference.
 - 💼 **Connect & Collaborate:** If you are navigating AppSec, Purple Teaming, or SOC Operations, connect on [LinkedIn](https://www.linkedin.com/in/muhammad-aqib-tayyab-ethical-hacker/).
 
 ---
