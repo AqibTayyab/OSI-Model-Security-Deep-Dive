@@ -73,7 +73,7 @@ graph TD
 ### L1: Physical Layer
 
 - **Responsibility:** Transmits raw bit streams over physical mediums — cables, fiber optics, and radio frequencies.
-- **AppSec Context:** Physical security breaches including hardware wiretapping and insertion of rogue devices.
+- **AppSec Context:** Physical security breaches, including hardware wiretapping and insertion of rogue devices.
 - **Primary Threat:** `Physical Tapping` / `Rogue Hardware`
 - **Relevant Tools:** `Rubber Ducky` `Proxmark` `LAN Turtle`
 
@@ -188,9 +188,9 @@ To provide a complete learning experience, the original visual materials and a f
 
 ## 🙋‍♂️ Author
 
-**Muhammad Aqib Tayyab** — AppSec & Purple Team Student | Certified Ethical Hacker | Bug Bounty Hunter
+**Muhammad Aqib Tayyab** — AppSec & Purple Team Student | Ethical Hacker | Bug Bounty Hunter
 
-I am an undergraduate **BIT student at NUML, Pakistan**, pursuing a *"Learning in Public"* philosophy — documenting my technical cybersecurity journey to build high-quality, accessible resources for the community.
+I am a **BS-IT undergraduate at NUML, Pakistan**, pursuing a *"Learning in Public"* philosophy — documenting my technical cybersecurity journey to build high-quality, accessible resources for the community.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Aqib_Tayyab-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-aqib-tayyab-ethical-hacker/)
 [![YouTube](https://img.shields.io/badge/YouTube-@MuhammadAqibTayyab-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MuhammadAqibTayyab)
